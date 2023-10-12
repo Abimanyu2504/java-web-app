@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Abi House, Pethappampatti.</h2>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226,+91-9980923216</h3>
+			<h2>PSR Medicals and Pet Corner, Pethappampatti.</h2>
+			<h3>Contact @ +91-6382336630 ,+91-9659553387</h3>
 		</div>	
 	</div>
 
